@@ -7,7 +7,7 @@
 
 This package allows you to view the Laravel application logs in a simple and clear way. Additional functionalities include the ability to download and delete log files.
 
-![](./.github/resources/screenshot_light_mode.png)
+<img src="screenshot_dark_mode.png" width="1000px">
 
 ## Filament Admin Panel
 
